@@ -2,15 +2,6 @@ const express = require('express');
 const app = express()
 const { animals } = require('./data/animals');
 
-
-
-
-
-
-
-
-
-
 function filterByQuery(query, animalsArray) {
     let personalityTraitsArray = [];
     // Note that we save the animalsArray as filteredResults here:
