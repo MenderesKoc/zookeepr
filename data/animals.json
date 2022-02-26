@@ -120,6 +120,69 @@
     },
     {
       "id": "12"
+    },
+    {
+      "name": "hamsi",
+      "species": "cat",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "hamsi",
+      "species": "cat",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "hamsi",
+      "species": "cat",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "sad",
+      "species": "cat",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "hamsi",
+      "species": "cat",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "hamsi",
+      "species": "cat",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "18"
+    },
+    {
+      "name": "hamsi",
+      "species": "cat",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "19"
     }
   ]
 }
