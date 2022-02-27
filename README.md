@@ -25,12 +25,12 @@
   <a name="usage"></a>
   ## Usage
   https://menderes61.herokuapp.com
-  https://id.heroku.com/login
-  https://expressjs.com/
   
   <a name="credits"></a>
   ## Credits
   https://jestjs.io/docs/getting-started
+  https://id.heroku.com/login
+  https://expressjs.com/
   
   <a name="tests"></a>
   ## Tests
