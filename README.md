@@ -24,7 +24,7 @@
   
   <a name="usage"></a>
   ## Usage
-  https://menderes61.herokuapp.com
+  
   
   <a name="credits"></a>
   ## Credits
