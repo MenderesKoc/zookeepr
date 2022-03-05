@@ -25,7 +25,6 @@
   <a name="usage"></a>
   ## Usage
   
-  
   <a name="credits"></a>
   ## Credits
   https://jestjs.io/docs/getting-started
