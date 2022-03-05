@@ -20,10 +20,11 @@
   
   <a name="installation"></a>
   ## Installation
-  click the link :) https://menderes61.herokuapp.com or clone project, npm i, npm i express run server.js
+  click the link :) https://zookeepr-pro.herokuapp.com or clone project, npm i, npm i express run server.js
   
   <a name="usage"></a>
   ## Usage
+  https://zookeepr-pro.herokuapp.com
   
   <a name="credits"></a>
   ## Credits
