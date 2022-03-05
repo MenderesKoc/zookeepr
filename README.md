@@ -1,10 +1,15 @@
  # zookeepr
-  
-  ## License
+ 
+ ## Images
+  ![ScreenShot](/public/assets/images/Screenshot1.png)
+
+  ![ScreenShot](/public/assets/images/Screenshot2.png)
+
+    -----
+ ## License
   ![licenseBadge](https://img.shields.io/badge/License-MIT-blue.svg)
   MIT
   [Full license information]("MIT').
-  
   
   ## Description
    animal and zoo keepers catalog for the zoo
@@ -17,10 +22,9 @@
   - [Tests](#tests)
   - [Questions](#contact)
   
-  
   <a name="installation"></a>
   ## Installation
-  click the link :) https://zookeepr-pro.herokuapp.com or clone project, npm i, npm i express run server.js
+  click the link :) https://zookeepr-pro.herokuapp.com or clone project run npm i,run npm i express run server.js
   
   <a name="usage"></a>
   ## Usage
@@ -33,6 +37,7 @@
   https://expressjs.com/
   
   <a name="tests"></a>
+
   ## Tests
   npm install --save-dev jest then run npm test
   
