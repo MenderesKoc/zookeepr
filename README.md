@@ -27,7 +27,8 @@
   
   <a name="usage"></a>
   ## Usage
-  https://zookeepr-pro.herokuapp.com
+ 
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://zookeepr-pro.herokuapp.com)
   
   <a name="credits"></a>
   ## Credits
