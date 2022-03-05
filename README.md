@@ -2,10 +2,9 @@
  
  ## Images
   ![ScreenShot](/public/assets/images/Screenshot1.png)
-
+-----
   ![ScreenShot](/public/assets/images/Screenshot2.png)
 
-    -----
  ## License
   ![licenseBadge](https://img.shields.io/badge/License-MIT-blue.svg)
   MIT
@@ -33,7 +32,9 @@
   <a name="credits"></a>
   ## Credits
   https://jestjs.io/docs/getting-started
+  
   https://id.heroku.com/login
+  
   https://expressjs.com/
   
   <a name="tests"></a>
