@@ -1,30 +1,8 @@
 # zookeepr
 
-## Images
-
-## ![ScreenShot](/public/assets/images/Screenshot1.png)
-
-![ScreenShot](/public/assets/images/Screenshot2.png)
-
-## License
-
-![licenseBadge](https://img.shields.io/badge/License-MIT-blue.svg)
-MIT
-[Full license information]("MIT').
-
 ## Description
 
 animal and zoo keepers catalog for the zoo
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [Tests](#tests)
-- [Questions](#contact)
-
-<a name="installation"></a>
 
 ## Installation
 
@@ -36,13 +14,27 @@ animal and zoo keepers catalog for the zoo
 
 ```
 
-<a name="usage"></a>
+## Tests
 
-## Usage
+```
+- npm install --save-dev
+- jest then run npm test
+
+```
+
+## Clone Repository
+
+- `Git clone git@github.com:MenderesKoc/zookeepr.git`
+
+## Images
+
+![ScreenShot](/public/assets/images/Screenshot1.png)
+
+![ScreenShot](/public/assets/images/Screenshot2.png)
+
+## Website
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://zookeepr-pro.herokuapp.com)
-
-<a name="credits"></a>
 
 ## Credits
 
@@ -52,15 +44,11 @@ https://id.heroku.com/login
 
 https://expressjs.com/
 
-<a name="tests"></a>
+## License
 
-## Tests
-
-```
-- npm install --save-dev
-- jest then run npm test
-
-```
+![licenseBadge](https://img.shields.io/badge/License-MIT-blue.svg)
+MIT
+[Full license information]("MIT').
 
 ## Contact for questions and suggestions:
 
