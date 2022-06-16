@@ -4,6 +4,13 @@
 
 animal and zoo keepers catalog for the zoo
 
+## Technology Used
+
+- Javascript
+- Node.js
+- bootstrap
+- Sequelize
+
 ## Installation
 
 ```
